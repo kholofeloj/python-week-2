@@ -16,9 +16,8 @@ my_list.insert(1, 15)
 # 4 Extend my_list with another list: [50, 60, 70].
 my_list.extend([50, 60, 70])
 
-
 # 5 Remove the last element from my_list.
-
+del my_list[-1]
 
 # 6 Sort my_list in ascending order.
 
