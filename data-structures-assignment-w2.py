@@ -11,7 +11,7 @@ my_list.append(30)
 my_list.append(40)
 
 # 3 Insert the value 15 at the second position in the list.
-
+my_list.insert(1, 15)
 
 # 4 Extend my_list with another list: [50, 60, 70].
 
