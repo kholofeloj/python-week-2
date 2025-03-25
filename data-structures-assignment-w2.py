@@ -20,6 +20,7 @@ my_list.extend([50, 60, 70])
 del my_list[-1]
 
 # 6 Sort my_list in ascending order.
+my_list.sort()
 
 
 # 7 Find and print the index of the value 30 in my_list
